@@ -1,3 +1,6 @@
+## Edit: What I learned
+In this document I learned the basics about navigating GitHub and how it can be an incredible tool to collaborate once I'm comfortable. I am excited to explore projects via GitHub Explore, but for now I am still a bit confused on the general terminology used such as 'commit', 'pushing', and 'issues'. I'll explore the deeper dives via the links provided and I'm sure I'll better understand once I start interacting with GitHub more. 
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Assignment overview and learning outcomes 
